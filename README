@@ -1,0 +1,4 @@
+To generate latex and pdf from markdown, you can do the following:
+sudo apt install pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-recommended
+pandoc -f markdown -t latex arbetsprov.md > arbetsprov.tex
+pandoc arbetsprov.tex -o arbetsprov.pdf

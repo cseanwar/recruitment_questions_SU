@@ -93,11 +93,11 @@ Vad gör följande kommando:
 Använd ett script- eller cli-verktyg för att ta fram en lista på
 efternamn och titel.
 
-    Lisa,von Anka,arvtagerska
-    Kalle,Göransson,ekonomi
-    Nisse-Göran,Svensson,linuxninja
-    Anna Karin,Pettersson,Psykolog
-    Östen,Warnebring,sångare
+    Edmund,Swettenham,författare
+    Jane,Marple,detektiv
+    Myrna,Harris,servitris
+    Phillipa,Haymes,änka
+    Rudi,Schertz,receptionist
 
 ### sortera mera!
 
