@@ -82,7 +82,7 @@ BASH
 
 Skriv ett script som svarar på frågan “Är det fredag?”
 
-### man woman
+### yes no
 
 Vad gör följande kommando:
 
@@ -105,11 +105,11 @@ Hur sorterar du listan ovan i bokstavsordning på efternamn.
 
 ### Me, my self and I
 
-I vilket sammanhang kan man behöva pipe:a nedan kommando efter?
+I vilket sammanhang kan man behöva pipe:a till nedan kommando?
 
     grep foo | grep -v grep ?
 
-### Ioan Ursut
+### Hejsan hoppsan
 
 Hur tar du bort filen ’-hej’ ?
 
@@ -148,7 +148,7 @@ Vad gör ovanstående script?
 
 ### short hand
 
-Ge exempel på en tillämpning av bashs positionas variabler.
+Ge exempel på en tillämpning av bashs positionala variabler.
 
 ### Retropespektiv
 
@@ -204,11 +204,11 @@ konfigurationsmenyn kunde man skriva in ip/ett nummer. Familjen
 uppfattade numret som antalet klienter och valde således 192.168.0.0/30.
 Hur kommer detta att fungera för familjen?
 
-### 2x(Som en blomma vissnad)
+### Lockdown
 
 Vilken RFC beskriver interna nät som inte får routas ut på internet?
 
-### Shibari
+### Skotstek
 
 Vad finns det för möjlighet att knyta ip med MAC-adress i en renodlad L2
 switch? Har metoden begränsningar?
